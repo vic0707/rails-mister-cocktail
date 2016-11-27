@@ -1,3 +1,12 @@
 @import "utilities";
 @import "footer";
 @import "navbar";
+
+
+.center {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
